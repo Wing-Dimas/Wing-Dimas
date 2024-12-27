@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/WingBagas)](https://twitter.com/WingBagas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-wing-bagas-bimantara-570b05197/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/wing_dimas/)](https://www.instagram.com/wing_dimas)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wingdimasd@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wingdimas@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=wingdimas.my.id)](wingdimas.my.id)
 [![Github](https://img.shields.io/github/followers/Wing-Dimas?label=Follow&style=social)](https://github.com/Wing-Dimas)
 
@@ -32,6 +32,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=ReactJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-NextJS-05122A?style=flat-square&logo=NextJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535)
 
 
+
+### ⭐Github Statictic
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wing-dimas&show_icons=true&locale=en&layout=compact" alt="wing-dimas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wing-dimas&show_icons=true&locale=en" alt="wing-dimas" /></p>
