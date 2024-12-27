@@ -33,7 +33,7 @@
 
 
 
-### ⭐Github Statictic
+### ⭐Github Statistic
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wing-dimas&show_icons=true&locale=en&layout=compact" alt="wing-dimas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wing-dimas&show_icons=true&locale=en" alt="wing-dimas" /></p>
