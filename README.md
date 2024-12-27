@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dimas Wing Bagas Bimantara</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWing-Dimas%2FWing-Dimas&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/WingBagas)](https://twitter.com/https://x.com/WingBagas)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/dimas-wing-bagas-bimantara-570b05197//)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/wing_dimas/?next=%2F/)](https://www.instagram.com/https://www.instagram.com/wing_dimas/?next=%2F)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/WingBagas)](https://twitter.com/WingBagas)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-wing-bagas-bimantara-570b05197/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/wing_dimas/)](https://www.instagram.com/wing_dimas)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wingdimasd@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=wingdimas.my.id)](wingdimas.my.id)
 [![Github](https://img.shields.io/github/followers/Wing-Dimas?label=Follow&style=social)](https://github.com/Wing-Dimas)
+
 
 
 - 🌱 I’m currently learning **Advanced Laravel Features and Performance Optimization in Next.js**
