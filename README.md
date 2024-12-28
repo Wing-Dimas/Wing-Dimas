@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-wing-bagas-bimantara-570b05197/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/wing_dimas/)](https://www.instagram.com/wing_dimas)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wingdimas@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=wingdimas.my.id)](wingdimas.my.id)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white)](wingdimas.my.id)
 [![Github](https://img.shields.io/github/followers/Wing-Dimas?label=Follow&style=social)](https://github.com/Wing-Dimas)
 
 
